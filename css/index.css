@@ -152,7 +152,7 @@ section {
 
 @-moz-keyframes fly {
 	0% {
-		-moz-transform: translateY(0px)
+5		-moz-transform: translateY(0px)
 	}
 
 	100% {
@@ -174,7 +174,7 @@ section {
 	position: absolute;
 	left: 50%;
 	margin-left: -98px;
-	bottom: 25%;
+	bottom: 15%;
 	background: #623309;
 	-webkit-border-radius: 4px;
 	border-radius: 4px;
