@@ -206,8 +206,7 @@ section {
 	width: 100%;
 	height: 90px;
 	background-image:url(../images/frontpage_bg2.jpg);
-	background-size: 60px auto
-}
+	background-size: 60px auto}
 
 
 .page {
@@ -257,7 +256,7 @@ section {
 .title p {
 	line-height: 22px;
 	font-size: 18px;
-	background-color: rgba(255, 255, 255, 0.5);
+	background-color: rgba(255, 255, 255, 0.7);
 	color: #fc3;
 	font-weight: 600;
     margin: 20px auto;
