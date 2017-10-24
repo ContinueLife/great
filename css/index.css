@@ -214,7 +214,6 @@ section {
 	background-image:url(../images/frontpage_bg2.png);	background-size: 100% auto
 }
 
-
 .page h3 {
 	font-size: 14px;
 	color: #1a1a1a;
@@ -225,8 +224,7 @@ section {
 	padding: 5px 5p
 }
 
-.title {
-    margin: 0 30px;
+.title {    margin: 0 30px;
     position: relative;
     /* padding-left: 87px; */
     min-height: 90px;
@@ -259,7 +257,7 @@ section {
 .title p {
 	line-height: 22px;
 	font-size: 18px;
-	background-color: rgba(255, 255, 255, 0.4);
+	background-color: rgba(255, 255, 255, 0.5);
 	color: #fc3;
 	font-weight: 600;
     margin: 20px auto;
