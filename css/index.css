@@ -214,6 +214,7 @@ section {
 	background-image:url(../images/frontpage_bg2.png);	background-size: 100% auto
 }
 
+
 .page h3 {
 	font-size: 14px;
 	color: #1a1a1a;
@@ -258,6 +259,7 @@ section {
 .title p {
 	line-height: 22px;
 	font-size: 18px;
+	background-color: rgba(255, 255, 255, 0.2);
 	color: #fc3;
 	font-weight: 600;
     margin: 20px auto;
